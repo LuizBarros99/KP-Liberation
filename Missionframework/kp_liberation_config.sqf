@@ -969,6 +969,16 @@ vehicle_rearm_sources = [
 ];
 
 vehicle_refuel_sources = [
+    "B_W_Truck_01_fuel_F",
+    "O_OCNArmyArid_Tempest_Fuel_01",
+    "O_OCNArmyArid_Mi_290_Taru_Fuel_01",
+    "O_T_Truck_02_fuel_F",
+    "O_Truck_02_fuel_F",
+    "O_T_Heli_Transport_04_fuel_F",
+    "O_R_Truck_02_fuel_F",
+    "O_R_Truck_03_fuel_F",
+    "O_R_Heli_Transport_04_fuel_F",
+    "I_E_Truck_02_fuel_F",
 	"B_W_APC_Tracked_01_CRV_F",
     "B_APC_Tracked_01_CRV_F",
     "B_Slingload_01_Fuel_F",
