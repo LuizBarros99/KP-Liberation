@@ -48,7 +48,7 @@ KP_liberation_medical_vehicles = [
     "C_IDAP_UGV_01_F",
     "C_IDAP_UAV_06_medical_F",
     "B_ION_UAV_06_medical_F",
-    "B_APC_Wheeled_01_medical_F"
+    "B_APC_Wheeled_01_medical_F",
     "B_T_Truck_01_medical_F",
     "B_Truck_01_medical_F",
     "C_Van_02_medevac_F",
